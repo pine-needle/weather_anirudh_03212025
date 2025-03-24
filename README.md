@@ -128,6 +128,11 @@ The data model must be able to handle double values that are returned from the A
 5 day forecast is available at any location on the globe. It includes weather forecast data with 3-hour step.
 Forecast is available in JSON or XML format.
 
+# Author
+[Anirudh Kuchuru]
+
+
+
 
 
 
