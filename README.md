@@ -4,7 +4,7 @@
 
 # 1. Introduction
 
-**Project Name**: Weather Application
+**Project Name**: Weather Application.
 **Description**: This application fetches and displays weather forecast data based on user-provided latitude
 and longitude or the device's current location.
 **Purpose**: To provide users with accurate and up-to-date weather forecasts in a user-friendly interface.
@@ -16,15 +16,15 @@ and longitude or the device's current location.
 
 # 2. Architecture
 
-**Kotlin:** Programming language.
-**Android Jetpack Compose:** UI framework.
-**Hilt:** Dependency injection.
-**Retrofit:** Networking library.
-**OpenWeatherMap API**: Weather data source.
-**Navigation Compose.**
-**Architecture Pattern:** MVVM (Model-View-ViewModel)
-**Dependency Injection:** Hilt is used for dependency injection to manage dependencies and improve code testability.
-**Networking:** Retrofit is used to make network requests to the OpenWeatherMap API.
+* **Kotlin:** Programming language.
+* **Android Jetpack Compose:** UI framework.
+* **Hilt:** Dependency injection.
+* **Retrofit:** Networking library.
+* **OpenWeatherMap API**: Weather data source.
+* **Navigation Compose.**
+* **Architecture Pattern:** MVVM (Model-View-ViewModel)
+* **Dependency Injection:** Hilt is used for dependency injection to manage dependencies and improve code testability.
+* **Networking:** Retrofit is used to make network requests to the OpenWeatherMap API.
 
 
 # 3. Modules and Components
